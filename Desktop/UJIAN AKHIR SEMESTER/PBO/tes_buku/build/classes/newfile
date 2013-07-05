@@ -1,0 +1,17 @@
+       int z = 0;
+//        String result;
+//        int x = Integer.parseInt(bil1.getText());
+//        int y = Integer.parseInt(bil2.getText());
+//            if(x>y) {z = x;
+//            result = String.valueOf(z);
+//            }else result="nil";
+//        hasil.setText(result);
+
+
+//    MOD
+//    int x = Integer.parseInt(bil1.getText());
+//    int y = Integer.parseInt(bil2.getText());
+//    double d = x;
+//    double e = y;
+//    Double z = ((d / e) - (x / y)) * y;//HITUNG KUADRAT MENGGUNAKAN FUNGSI POW
+//    String result = String.valueOf(z);
